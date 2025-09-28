@@ -34,13 +34,12 @@ The application is designed with **Java Swing** for the GUI and **MySQL** for ba
 - **JDBC** (Database Connectivity)
 - **MySQL** (Database)
 - **IDE**: IntelliJ
-- **Libraries**: Optional third-party libraries (JCalendar)
+- **Libraries**: Third-party libraries (JCalendar)
 
 ---
 
 ## 🎥 Demo
-
-[![Demo Video](https://img.youtube.com/vi/6IlJTeLWWe0/0.jpg)](https://youtu.be/6IlJTeLWWe0)
+Watch the demo video [here](https://youtu.be/6IlJTeLWWe0)
 
 ---
 
@@ -54,7 +53,7 @@ The application is designed with **Java Swing** for the GUI and **MySQL** for ba
 
 For any questions, suggestions, or feedback, you can reach me at:
 
-- **Email:** darkfalcon2804@gmail.com
+- **Email:** dark03falcon@gmail.com
 - **LinkedIn:** [Bhavesh Jain](https://www.linkedin.com/in/bhavesh-jain28/)
 
 ---
