@@ -43,13 +43,13 @@ The application is designed with **Java Swing** for the GUI and **MySQL** for ba
 
 ---
 
-## 📂 Acknowledgements
+##  Acknowledgements
 
 - Inspired by real-world airline reservation systems.
 - Thanks to open-source documentation for guidance on Java Swing, JDBC, and MySQL.
 ---
 
-## 📬 Contact
+##  Contact
 
 For any questions, suggestions, or feedback, you can reach me at:
 
