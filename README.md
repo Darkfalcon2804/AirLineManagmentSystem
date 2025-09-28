@@ -38,8 +38,8 @@ The application is designed with **Java Swing** for the GUI and **MySQL** for ba
 
 ---
 
-## 🎥 Demo
-Watch the demo video [here](https://youtu.be/6IlJTeLWWe0)
+## 🎥 Dem
+[![Demo Video](https://img.youtube.com/vi/6IlJTeLWWe0/0.jpg)](https://youtu.be/6IlJTeLWWe0)
 
 ---
 
